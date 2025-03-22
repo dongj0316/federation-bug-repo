@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "host-side"
+		},
+		{
+			"path": "remote-side"
+		},
+	],
+	"settings": {}
+}
